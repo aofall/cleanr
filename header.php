@@ -10,7 +10,7 @@
 	<link href="./fonts3.css" rel="stylesheet" type="text/css">
 	<?php $this->header(); ?>
 		<style type="text/css" media="screen">
-		body { background: url( ) scroll !important; }
+		body { background: url(./background.jpg) scroll !important; }
 		**/在上一行添加背景图片地址/**
 	</style>
 	<script type="text/javascript">
